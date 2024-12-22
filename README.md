@@ -9,11 +9,7 @@ Soy una persona con una gran pasión por el aprendizaje continuo y la resolució
 
 ## 🛠 Skills
 
-**Web design:** HTML, CSS, JavaScript.
-
-**Lenguajes:** C++, Python.
-
-**Frameworks:** Bootstrap, React.
+**Destacado:** HTML, CSS, JavaScript, Python, C++, React
 
 
 ## 🔗 Links
